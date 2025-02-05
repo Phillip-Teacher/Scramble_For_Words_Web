@@ -93024,7 +93024,7 @@ n.c=!0
 s=8
 return A.x(l.pS(0.75),$async$hx)
 case 8:s=9
-return A.x(l.pR(new A.uZ("assets/music/SFW_Main_Theme.mp3",null)),$async$hx)
+return A.x(l.pR(new A.uZ("assets/assets/music/SFW_Main_Theme.mp3",null)),$async$hx)
 case 9:s=10
 return A.x(l.tC(B.j7),$async$hx)
 case 10:s=11
@@ -93057,7 +93057,7 @@ n.d=!0
 s=8
 return A.x(l.pS(0.75),$async$nG)
 case 8:s=9
-return A.x(l.pR(new A.uZ("assets/music/gameplayTheme.mp3",null)),$async$nG)
+return A.x(l.pR(new A.uZ("assets/assets/music/gameplayTheme.mp3",null)),$async$nG)
 case 9:s=10
 return A.x(l.tC(B.j7),$async$nG)
 case 10:s=11
